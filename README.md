@@ -92,19 +92,19 @@ GET	/api/products/price?min=x&max=y		Filter products by price range
 
 ⸻
 
-🔍 Swagger UI
+🔍 Swagger UI <br>
 
-Test your API directly in the browser!
-	•	📌 http://localhost:8080/swagger-ui.html
-	•	📄 http://localhost:8080/v3/api-docs
+Test your API directly in the browser! <br>
+	•	📌 http://localhost:8080/swagger-ui.html <br>
+	•	📄 http://localhost:8080/v3/api-docs <br>
 
 ⸻
 
-🧪 H2 Database Console
-	•	🌐 URL: http://localhost:8080/h2-console
-	•	🛠 JDBC URL: jdbc:h2:mem:testdb
-	•	👤 Username: sa
-	•	🔐 Password: (leave blank)
+🧪 H2 Database Console <br>
+	•	🌐 URL: http://localhost:8080/h2-console <br>
+	•	🛠 JDBC URL: jdbc:h2:mem:testdb <br>
+	•	👤 Username: sa <br>
+	•	🔐 Password: 
 
 ⸻
 
@@ -124,10 +124,10 @@ Use this for Swagger POST or testing endpoints:
 
 👨‍💻 Author
 
-Guduru Jeevan Kumar
-📧 gudurujeevankumarguduru3@gmail.com
-🔗 [LinkedIn](https://github.com/gudurujeevankumar)
-🌐 [Portfolio](https://web-developer-jeevan-kumar-guduru.netlify.app/)
+Guduru Jeevan Kumar <br>
+📧 gudurujeevankumarguduru3@gmail.com <br>
+🔗 [LinkedIn](https://github.com/gudurujeevankumar) <br>
+🌐 [Portfolio](https://web-developer-jeevan-kumar-guduru.netlify.app/) <br>
 
 ⸻
 
