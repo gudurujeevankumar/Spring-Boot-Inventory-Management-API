@@ -133,7 +133,7 @@ Guduru Jeevan Kumar <br>
 
 ⸻
 
-🙌 Acknowledgements
-	•	Thanks to Spring Boot community for documentation and tools
-	•	Special thanks to my mentor Srinivasarao Gorantla for continuous support and guidance
+🙌 Acknowledgements <br>
+	•	Thanks to Spring Boot community for documentation and tools <br>
+	•	Special thanks to my mentor Srinivasarao Gorantla for continuous support and guidance <br>
 
