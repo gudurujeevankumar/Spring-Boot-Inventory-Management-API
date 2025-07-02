@@ -1,6 +1,8 @@
 # 📦 Spring Boot Inventory Management API
 
 A full-featured Inventory Management REST API built with **Spring Boot**, **Spring Data JPA**, **H2 Database**, and **Swagger UI**.
+
+
 <img width="1440" alt="Swagger UI local Host" src="https://github.com/user-attachments/assets/926f248a-c24b-4b7d-a407-1ac605d3e590" />
 
 
