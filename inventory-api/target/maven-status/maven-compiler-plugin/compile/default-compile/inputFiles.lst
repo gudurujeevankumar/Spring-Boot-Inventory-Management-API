@@ -1,9 +1,0 @@
-/Users/gudurujeevankumar/Downloads/inventory-api/src/main/java/com/ndvtechsys/inventory/config/SwaggerConfig.java
-/Users/gudurujeevankumar/Downloads/inventory-api/src/main/java/com/ndvtechsys/inventory/model/Product.java
-/Users/gudurujeevankumar/Downloads/inventory-api/src/main/java/com/ndvtechsys/inventory/controller/ProductController.java
-/Users/gudurujeevankumar/Downloads/inventory-api/src/main/java/com/ndvtechsys/inventory/service/ProductService.java
-/Users/gudurujeevankumar/Downloads/inventory-api/src/main/java/com/ndvtechsys/inventory/exception/GlobalExceptionHandler.java
-/Users/gudurujeevankumar/Downloads/inventory-api/src/main/java/com/ndvtechsys/inventory/repository/ProductRepository.java
-/Users/gudurujeevankumar/Downloads/inventory-api/src/main/java/com/ndvtechsys/inventory/service/ProductServiceImpl.java
-/Users/gudurujeevankumar/Downloads/inventory-api/src/main/java/com/ndvtechsys/inventory/exception/ResourceNotFoundException.java
-/Users/gudurujeevankumar/Downloads/inventory-api/src/main/java/com/ndvtechsys/inventory/InventoryApiApplication.java
